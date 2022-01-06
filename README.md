@@ -1,5 +1,6 @@
 # House Price Prediction Using a XGBoost Classifier
-Built a Linear Regression and XGBoost model to predict house prices from the Boston houses prices dataset
+Built a Linear Regression and XGBoost model to predict house prices from the Boston houses prices dataset.
+
 XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework.
 
 In this project, we tried to predict house price in Boston using the Sklearn boston house prices dataset.
